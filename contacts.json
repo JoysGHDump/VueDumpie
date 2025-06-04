@@ -1,0 +1,64 @@
+{
+  "contacts": [
+    {
+      "id": "1742467922201",
+      "name": "Gabriel Joe Flores",
+      "phone": "0975-890-1235",
+      "email": "gabriel.flores@gmail.com"
+    },
+    {
+      "id": "1742468070793",
+      "name": "Hector Castillo",
+      "phone": "0954-678-9012",
+      "email": "hector.castillo@gmail.com"
+    },
+    {
+      "id": "1742804155305",
+      "name": "Joyce Salamat",
+      "phone": "0934-653-6531",
+      "email": "joyce.salamat@accenture.com"
+    },
+    {
+      "id": "1742804362089",
+      "name": "Christia dela Cruz",
+      "phone": "0934-567-8909",
+      "email": "hsa16@gmail.com"
+    },
+    {
+      "id": "a1af",
+      "name": "Jose Mari Tyan",
+      "phone": "0932-212-2345",
+      "email": "mstx@hf.com"
+    },
+    {
+      "name": "Jean Princess Manalo",
+      "phone": "0934-653-6577",
+      "email": "jeanmanalo@gmail.com",
+      "id": "7acVq5@gmail.com"
+    },
+    {
+      "name": "Charmaine Marie",
+      "phone": "0955-832-2123",
+      "email": "charmainemarie@acn.com",
+      "id": "pTv74ih"
+    },
+    {
+      "name": "Angelo Lovena",
+      "phone": "0910-976-4732",
+      "email": "geloy@gmail.com",
+      "id": "H_qwIcv"
+    },
+    {
+      "name": "Kyle Evole",
+      "phone": "0910-398-2235",
+      "email": "kyleqren@gmail.com",
+      "id": "poQ7OiF"
+    },
+    {
+      "name": "harvie",
+      "phone": "0923-445-2563",
+      "email": "harvie@gmail.com",
+      "id": "tinDk-5"
+    }
+  ]
+}
